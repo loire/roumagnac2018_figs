@@ -7,5 +7,5 @@
 
 ## Dependancies
 
-R packages: (tidyverse)[https://www.tidyverse.org/], (zoo)[https://cran.r-project.org/web/packages/zoo/index.html]
+R packages: [tidyverse](https://www.tidyverse.org/), [zoo](https://cran.r-project.org/web/packages/zoo/index.html)
 
